@@ -4,6 +4,9 @@
     "config:recommended",
     ":separateMultipleMajorReleases"
   ],
+  "vulnerabilityAlerts": {
+    "enabled": true
+  },
   "minimumReleaseAge": "3 days",
   "lockFileMaintenance": { "enabled": true }
 }
