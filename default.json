@@ -9,5 +9,8 @@
     "enabled": true
   },
   "minimumReleaseAge": "3 days",
-  "lockFileMaintenance": { "enabled": true }
+  "lockFileMaintenance": {
+    "automerge": true,
+    "enabled": true
+  }
 }
