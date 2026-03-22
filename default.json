@@ -11,6 +11,7 @@
   "minimumReleaseAge": "3 days",
   "lockFileMaintenance": {
     "automerge": true,
-    "enabled": true
+    "enabled": true,
+    "minimumReleaseAge": "0 days"
   }
 }
